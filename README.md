@@ -4,7 +4,7 @@
 
 Projet pour le cours de Fiction Interactive, SLI - Faculté des lettres, UNIL, automne 2022.
 
-lien de la visualisation : 
+lien de la visualisation : https://ncarette.github.io/HDVELD/
 
 ## Auteur
 
